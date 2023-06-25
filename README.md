@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**Dellhed/Dellhed** is a ✨ _special_ 4
+**Dellhed/Dellhed** is 4
+a ✨ _special_ 4
 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas 1
