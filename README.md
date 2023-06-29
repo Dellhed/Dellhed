@@ -7,7 +7,7 @@ a ✨ _special_ 4
 
 Here are some ideas 1
 t5
-o get you started:
+o get you sрtarted:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learni8
